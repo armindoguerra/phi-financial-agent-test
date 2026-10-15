@@ -110,12 +110,7 @@ O arquivo `resultados.txt` é criado no diretório de execução do script da ve
 - As informações financeiras e as recomendações de analistas podem mudar. Verifique os dados diretamente nas fontes antes de tomar decisões.
 - O conteúdo gerado por modelos de linguagem pode conter erros, omissões ou referências imprecisas. O relatório deve ser tratado como apoio à pesquisa, não como recomendação financeira personalizada.
 - Os scripts habilitam a exibição das chamadas de ferramentas para facilitar a observação do fluxo de execução. O modo de depuração também está ativado no agente coordenador.
-
-## Segurança
-
-- Armazene as chaves de API em variáveis de ambiente ou em um arquivo `.env` local.
-- Não versione credenciais, dados pessoais ou outros segredos.
-- Considere fixar as versões das dependências em um arquivo `requirements.txt` para tornar o ambiente reproduzível.
+reproduzível.
 
 ## Possíveis melhorias
 
